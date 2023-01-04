@@ -1,0 +1,5 @@
+https://www.timschaeps.be/post/adding-git-bash-to-windows-terminal/ - how to add git bash to Terminal
+https://www.youtube.com/watch?v=zM9Mb-otqww - how to add git bash to Terminal
+https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files - how to create .gitignore file
+https://github.com/github/gitignore/blob/main/Python.gitignore - template python .gitignore file
+https://www.educative.io/answers/how-to-add-folder-to-gitignore - how to add folder in .gitignore file
